@@ -1,4 +1,4 @@
-### Informații legale 
+##Informații legale 
 
 Toate drepturile rezervate. Prin prezenta comunicare facem referire la pagina inițială și la toate celelalte pagini ale portalului [www.localservices.app](http://www.localservices.app/). Toate informațiile și materialele de pe pagină și subpaginile [www.localservices.app](http://www.localservices.app/) sunt protejate de drepturile de proprietate intelectuală ale societății comerciale JobDone SRL.
 
