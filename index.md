@@ -1,2 +1,2 @@
 ### index page
-+ hello world
++ [informatii legale](./informatii-legale.md)
