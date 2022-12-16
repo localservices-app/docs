@@ -6,7 +6,7 @@ LocalServices.app este o aplicatie care ofera o platforma pentru clienti care au
 
 ### Cum functioneaza LocalServices :
 
-| CLIENTE | PROFESIONIST |
+| CLIENT | PROFESIONIST |
 | --- | --- |
 | 1. Publica anunt  | - |
 | - | 2. Trimite oferte la cererile clientilor |
