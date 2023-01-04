@@ -21,7 +21,7 @@ Discloser și Receiver s-au înțeles să își schimbe informații confidenția
 - Nu vândă, distribuie sau transmită informațiile confidențiale către terți;
 - Nu concureze direct sau indirect cu Discloser în cadrul aceleiași nișe de piață;
 - Să șteargă sau distrugă orice informații confidențiale la finalizarea colaborării sau la cererea Discloser.
-- Sa nu angajeze personalul Discoser-ului fără acordul prealabil scris al acesteia;
+- Sa nu angajeze personalul Discloser-ului fără acordul prealabil scris al acesteia;
 
 ### 4. Durata acordului
 
