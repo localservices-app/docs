@@ -1,6 +1,7 @@
 ### ACORD DE CONFIDENȚIALITATE
 
 Între: [Numele persoanei care dezvăluie informațiile] ("Discloser")
+
 Și: [Numele persoanei care primește informațiile] ("Receiver")
 
 ### 1. Obiectul acordului
