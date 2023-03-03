@@ -1,5 +1,5 @@
 ### LocalServices.app
-+ [Termeni si Conditii App](./TERMENI-ȘI-CONDIȚII-APP.md)
++ [Termeni si Conditii App](./termeni-si-conditii-app.md)
 + [Politica de Confidentialitate](./politica-de-confidentialitate.md)
 
 ### documente
